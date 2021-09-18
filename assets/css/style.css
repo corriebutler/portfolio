@@ -5,21 +5,21 @@
 }
 
 :root {
-    --primary-color: #92cccd;
-    --secondary-color: #465973;
-    --tertiary-color: #ededf7;
-    --quaternary-color: #31343d;
+    --primary-color: #D9B310;
+    --secondary-color: #0B3C5D;
+    --tertiary-color: #328CC1;
+    --quaternary-color: #1D2731;
 }
 
 body {
-    color: var(--secondary-color);
+    color: var(--tertiary-color);
     font-family: Helvetica, Arial, sans-serif;
 }
 
 /* HEADER STYLES START */
 header {
     padding: 10px 35px 15px 0;
-    background-color: var(--quaternary-color);
+    background-color: var(--secondary-color);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -27,11 +27,12 @@ header {
 
 header h1 {
     font-weight: bold;
-    font-size: 60px;
-    background-color: var(--primary-color);
-    color: var(--quaternary-color);
-    padding-left: 80px;
+    font-size: 40px;
+    background-color: var(--tertiary-color);
+    color: var(--primary-color);
+    padding-left: 20px;
     padding-right: 10px;
+    text-align: center;
 }
 
 header a {
@@ -41,21 +42,18 @@ header a {
 
 header nav {
     margin: 7px 0;
-    display: flex;
-    align-items: center;
 }
 
 header nav ul {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: none;
     list-style: none;
+    padding-top: 20px;
 }
 
 header nav ul li a {
-    padding: 10px 15px;
-    font-size: 2.00vw;
+    padding: 30px 6px 0px 5px;
+    font-size: 5vw;
 }
 /* HEADER STYLES END */
 
@@ -74,13 +72,14 @@ header nav ul li a {
     align-items: flex-start;
 }
 
-.hero-subtitle {
-    width: 35%;
-    display: flex;
-    align-items: flex-end;
-    margin: 3.5%;
-    background-color: var(--primary-color);
-    color: var(--quaternary-color);
+.hero-image {
+    text-align: right;
+}
+
+.hero-image img{
+    padding: 20px;
+    width: 50%;
+    height: auto;
 }
 
 
@@ -90,24 +89,15 @@ header nav ul li a {
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
-    header h1 a {
-        /* this will be applied on any screen smaller than 980px */
-        color: tomato;
-    }
+
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 @media screen and (max-width: 768px) {
-    header h1 {
-        /* this will be applied on any screen between 768px and 575px */
-        font-size: 80px;
-    }
+
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
-    header h1 {
-        /* this will be applied on any screen smaller than 575px */
-        font-size: 100px;
-    }
+
 }
