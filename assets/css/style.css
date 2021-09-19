@@ -190,8 +190,28 @@ header nav ul li a:hover {
 
 .contact-info {
     background-color: var(--third-color);
+    padding-bottom: 20px;
 }
 
+.contact-info address p {
+    margin: 5px;
+    padding: 5px;
+    font-size: 24px;
+    background-color: var(--primary-color);
+    border-radius: 15px;
+    display: block;
+    text-align: center;
+}
+
+.contact-info address p a {
+    text-decoration: none;
+    color: var(--third-color)
+}
+
+.contact-info address p:hover {
+    background-color: var(--fourth-color);
+    color: #fff;
+}
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
