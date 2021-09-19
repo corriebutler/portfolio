@@ -15,3 +15,4 @@ Banner Image Taken From: https://www.freepik.com/free-vector/green-polygonal-abs
 Work Placeholder Images Taken From: https://picsum.photos/
 Object Fit Cover in Work Section Taken from Stack Overflow: https://stackoverflow.com/questions/11757537/css-image-size-how-to-fill-but-not-stretch
 Opening href links in a new tab: https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
+Using Title Image as the Alt for Background images, says it serves the same purpose: https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute

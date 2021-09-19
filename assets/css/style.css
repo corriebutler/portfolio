@@ -139,7 +139,9 @@ header nav ul li a:hover {
 /* Object Fit Cover Taken from Stack Overflow */
 .work span a {
     text-decoration: none;
-    color: var(--third-color)
+    color: var(--third-color);
+    display: flex;
+    justify-content: center;
 }
 
 .calculator-header {
@@ -155,8 +157,9 @@ header nav ul li a:hover {
 }
 
 .calculator {
-    border-radius: 15px;
-    width: 100%;
+    background-image: url(../images/calculator-placeholder.png);
+    border-radius: 25px;
+    width: 75vw;
     object-fit: cover;
     height: 50vw;
     margin-bottom: 5%;
