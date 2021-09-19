@@ -166,43 +166,36 @@ header nav ul li a:hover {
     align-items: flex-end;
 }
 
-.led-wall {
-    background-image: url(../images/led-wall.png);
+.led-wall, .pastel, .run-buddy-img {
     border-radius: 25px;
     width: 85vw;
     object-fit: cover;
     height: 35vw;
     margin-bottom: 5%;
+    display: flex;
+    align-items: flex-end;
+}
+
+.led-wall {
+        background-image: url(../images/led-wall.png);
 }
 
 .pastel {
     background-image: url(../images/pastels-placeholder.png);
-    border-radius: 25px;
-    width: 85vw;
-    object-fit: cover;
-    height: 35vw;
-    margin-bottom: 5%;
 }
 
 .run-buddy-img {
     background-image: url(../images/calculator-placeholder.png);
-    border-radius: 25px;
-    width: 85vw;
-    object-fit: cover;
-    height: 35vw;
-    margin-bottom: 5%;
 }
 
 .application-header {
     color: var(--secondary-color);
     background-color: rgba(119,201,212, 0.8);
+    width: 50vw;;
     padding: 10px;
-    width: 75%;
     border: 3px solid var(--secondary-color);
-    margin-top: 20%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 15px;
-    margin-bottom: 0px;
     font-size: 5vw;
 }
 
@@ -330,14 +323,12 @@ header nav ul li a:hover {
         margin-left: 8%;
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
     }
     
     .calculator {
         height: 30vw;
-        width: 50vw;
         margin-right: 4%;
-        display: flex;
-        align-items: flex-end;
     }
 
     .calculator-header {
@@ -347,18 +338,15 @@ header nav ul li a:hover {
     }
 
     .application-header {
-        font-size: 3vw;
+        font-size: 1.5vw;
         width: 100%;
-        border-radius: 25px;
+        border-radius: 20px;
     }
     
     .led-wall, .pastel, .run-buddy-img {
         height: 10vw;
         width: 25vw;
-        display: flex;
-        align-items: flex-end;
-        flex-wrap: wrap;
-        margin: 0px;
+        margin-right: auto;
     }
 
     .resume a img {
