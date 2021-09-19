@@ -113,7 +113,24 @@ header nav ul li a:hover {
 }
 
 .second-title-color {
-    color: var(--second-color)
+    color: var(--second-color);
+}
+
+.about-me {
+    background-color: var(--primary-color);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about-me-content p {
+    line-height: 1.5;
+    text-align: center;
+    padding: 0px 10px 15px 10px;
+    font-size: 18px;
+}
+
+.resume p a {
+    text-decoration: none;
 }
 
 
