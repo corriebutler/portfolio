@@ -4,18 +4,12 @@ This website showcases the Web Development work of Corrie Butler. It includes li
 Calculator and Pastel Puzzles are placeholders for future work. The links are not to actual work and will be replaced when work can be supplemented.
 
 ## Visual
-![first site image] (https://user-images.githubusercontent.com/84928781/134030377-b635eb1b-dce0-4442-9b90-aa65f14c2051.png)
 
-![image](https://user-images.githubusercontent.com/84928781/134030377-b635eb1b-dce0-4442-9b90-aa65f14c2051.png)
+![Site Image 1](https://user-images.githubusercontent.com/84928781/134030377-b635eb1b-dce0-4442-9b90-aa65f14c2051.png)
+![image](https://user-images.githubusercontent.com/84928781/134030574-4fbee10e-1fda-4c7d-ada3-b33856c8a4b0.png)
+![image](https://user-images.githubusercontent.com/84928781/134031537-0abed3cd-580d-4d69-9210-5e5cae0e0487.png)
+![image](https://user-images.githubusercontent.com/84928781/134031576-a9783bf9-42e2-4a5e-afe5-1698800d4803.png)
 
-
-
-![site image] (https://photos.app.goo.gl/v2zjGq3nt4UckmFK6)
-
-<img src="../portfolio/assets/images/site-image-1.png">
-<img src="../portfolio/assets/images/site-image-2.png">
-<img src="../portfolio/assets/images/site-image-3.png">
-<img src="../portfolio/assets/images/site-image-4.png">
 
 
 ## Link to Site
