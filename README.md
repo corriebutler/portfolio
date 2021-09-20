@@ -6,6 +6,8 @@ Calculator and Pastel Puzzles are placeholders for future work. The links are no
 ## Visual
 ![site image] (assets/images/site-image-1.png)
 
+![site image] (https://photos.app.goo.gl/v2zjGq3nt4UckmFK6)
+
 <img src="../portfolio/assets/images/site-image-1.png">
 <img src="../portfolio/assets/images/site-image-2.png">
 <img src="../portfolio/assets/images/site-image-3.png">
