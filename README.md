@@ -6,6 +6,9 @@ Calculator and Pastel Puzzles are placeholders for future work. The links are no
 ## Visual
 ![first site image] (https://user-images.githubusercontent.com/84928781/134030377-b635eb1b-dce0-4442-9b90-aa65f14c2051.png)
 
+![image](https://user-images.githubusercontent.com/84928781/134030377-b635eb1b-dce0-4442-9b90-aa65f14c2051.png)
+
+
 
 ![site image] (https://photos.app.goo.gl/v2zjGq3nt4UckmFK6)
 
