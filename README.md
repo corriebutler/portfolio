@@ -4,7 +4,7 @@ This website showcases the Web Development work of Corrie Butler. It includes li
 Calculator and Pastel Puzzles are placeholders for future work. The links are not to actual work and will be replaced when work can be supplemented.
 
 ## Visual
-![site_image] (./assets/images/site-image-1.png)
+![site_image] (https://drive.google.com/file/d/17lE5_O42d9m6yx__AetKtHHVKi9gfDqa/view?usp=sharing)
 
 <img src="../portfolio/assets/images/site-image-1.png">
 <img src="../portfolio/assets/images/site-image-2.png">
