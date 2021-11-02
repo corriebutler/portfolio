@@ -155,8 +155,8 @@ header nav ul li a:hover {
     font-size: 5vw;
 }
 
-.calculator {
-    background-image: url(../images/calculator-placeholder.png);
+.moon-phase {
+    background-image: url(../images/moon-phase-preview.png);
     border-radius: 25px;
     width: 85vw;
     object-fit: cover;
@@ -164,6 +164,7 @@ header nav ul li a:hover {
     margin-bottom: 5%;
     display: flex;
     align-items: flex-end;
+    background-repeat: no-repeat;
 }
 
 .led-wall, .pastel, .run-buddy-img {
